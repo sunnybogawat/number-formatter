@@ -1,5 +1,5 @@
 {
-  "name": "number-formatter",
+  "name": "my-number-formatter",
   "version": "0.1.0",
   "description": "my test node package",
   "main": "index.js",
